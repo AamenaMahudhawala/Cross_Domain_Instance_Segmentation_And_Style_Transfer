@@ -1,0 +1,11 @@
+```text
+torch
+torchvision
+detectron2
+opencv-python
+numpy
+pandas
+matplotlib
+tqdm
+scikit-learn
+albumentations
