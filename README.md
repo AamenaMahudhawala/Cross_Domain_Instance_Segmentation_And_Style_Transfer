@@ -37,7 +37,7 @@ Cross_Domain_Instance_Segmentation_&_Style_Transfer/
 │
 ├── code
 │   ├── BASERCNN.ipynb                # Notebook to train the Mask R-CNN model
-│   ├── CompletePipeLine.ipynb        # MAIN DEMO: Translation, Inference & Visualization
+│   ├── CompletePipeLine.ipynb        # MAIN DEMO: Translation
 │   ├── CycleGANtrain.ipynb           # Notebook used to train CycleGAN (Reference)
 │   ├── EvaluationOFPipeline.ipynb    # Notebook to evaluate mAP metrics
 │   ├── Model                         # Pre-trained Mask R-CNN model (Best Weights)   
